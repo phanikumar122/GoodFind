@@ -1,6 +1,6 @@
-# GoodFind — Luxury Commerce & SaaS Platform
+# GoodFind — Luxury Commerce
 
-GoodFind is a modern, high-performance e-commerce SaaS frontend engineered with React 19, TypeScript, Vite, Tailwind CSS, Zustand, and TanStack Query. Designed with visual aesthetics inspired by the best aspects of Stripe, Linear, and luxury minimalist design systems, GoodFind unifies a multi-category consumer storefront with an all-in-one merchant administration suite and a SaaS marketing platform.
+GoodFind is a modern, high-performance e-commerce frontend engineered with React 19 , Vite, Tailwind CSS. GoodFind unifies a multi-category consumer storefront with an all-in-one merchant administration suite and a SaaS marketing platform.
 
 ---
 
